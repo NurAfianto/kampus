@@ -1,0 +1,9 @@
+LANGKAH-LANGKAH INSTALASI
+
+1. silahkan import dulu database kampus
+2. pindah folder java_icon ke C:\xampp
+3. pindahkan folder UnivProject yg berisi projeknya ke Documents\NetBeansProjects
+4. run example untuk masuk ke dashboard/halaman utama
+
+*jangan lupa cek bagian library-nya terkadang librarynya terunset sendiri
+*data_ adalah data pada database (buat jaga-jaga) tetapi kalau import database berhasil gak perlu
